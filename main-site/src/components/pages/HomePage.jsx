@@ -13,7 +13,7 @@ const HomePage = () => {
       subtitle: 'The Developer In Me',
       hashtag: '#TheDeveloperInMe',
       description: 'Full-stack development creating responsive web applications with modern technologies and user-friendly interfaces.',
-      icon: '/developer-icon.png',
+      icon: '/code.svg',
       link: 'https://your-developer-portfolio.com',
       color: 'bg-[#a0b4cc]',
       number: '01.'
@@ -24,7 +24,7 @@ const HomePage = () => {
       subtitle: 'The Designer In Me',
       hashtag: '#TheDesignerInMe',
       description: 'Creative Designer, brand strategist, UI/UX enthusiast crafting meaningful digital experiences through research-driven design.',
-      icon: '/designer-icon.png',
+      icon: '/chart-bubble.svg',
       link: 'https://your-designer-portfolio.com',
       color: 'bg-white',
       number: '02.'
@@ -35,7 +35,7 @@ const HomePage = () => {
       subtitle: 'The Strategist In Me',
       hashtag: '#TheStrategistInMe',
       description: 'Solving complex problems by bridging technical execution with strategic thinking and user-centered design approaches.',
-      icon: '/strategist-icon.png',
+      icon: '/presentation-analytics.svg',
       link: 'https://your-strategist-portfolio.com',
       color: 'bg-[#394a43]',
       number: '03.'
