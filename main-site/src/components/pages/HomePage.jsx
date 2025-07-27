@@ -23,7 +23,7 @@ const HomePage = () => {
       title: 'Crafting Visual Stories',
       subtitle: 'The Designer In Me',
       hashtag: '#TheDesignerInMe',
-      description: 'Creative Designer, brand strategist, UI/UX enthusiast crafting meaningful digital experiences through research-driven design.',
+      description: 'Creative Designer, brand strategist, UI/UX enthusiast crafting digital experiences through research-driven design.',
       icon: '/chart-bubble.svg',
       link: 'https://designer-portfolio-black.vercel.app/',
       color: 'bg-white',
