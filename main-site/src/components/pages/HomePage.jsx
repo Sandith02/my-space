@@ -50,7 +50,7 @@ const HomePage = () => {
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/your-profile',
+      url: 'https://www.linkedin.com/in/sandith02/',
       icon: Linkedin
     },
     {
