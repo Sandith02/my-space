@@ -150,7 +150,7 @@ const HomePage = () => {
               </h1>
               
               <p className="text-lg md:text-xl text-gray-400 max-w-4xl mb-8 leading-relaxed">
-                I'm Sandith - a multi-faceted professional who bridges technology, design, and strategy.
+                I'm Sandith - a multi-faceted undergraduate who bridges technology, design, and strategy.
               </p>
 
               <p className="text-base text-gray-500 max-w-3xl mb-12 leading-relaxed">
