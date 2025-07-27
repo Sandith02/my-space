@@ -14,7 +14,7 @@ const HomePage = () => {
       hashtag: '#TheDeveloperInMe',
       description: 'Full-stack development creating responsive web applications with modern technologies and user-friendly interfaces.',
       icon: '/code.svg',
-      link: 'https://your-developer-portfolio.com',
+      link: 'https://portfolio-v1-u4vs.vercel.app/',
       color: 'bg-[#a0b4cc]',
       number: '01.'
     },
@@ -25,7 +25,7 @@ const HomePage = () => {
       hashtag: '#TheDesignerInMe',
       description: 'Creative Designer, brand strategist, UI/UX enthusiast crafting meaningful digital experiences through research-driven design.',
       icon: '/chart-bubble.svg',
-      link: 'https://your-designer-portfolio.com',
+      link: 'https://designer-portfolio-black.vercel.app/',
       color: 'bg-white',
       number: '02.'
     },
@@ -36,7 +36,7 @@ const HomePage = () => {
       hashtag: '#TheStrategistInMe',
       description: 'Solving complex problems by bridging technical execution with strategic thinking and user-centered design approaches.',
       icon: '/presentation-analytics.svg',
-      link: 'https://your-strategist-portfolio.com',
+      link: 'https://analyst-portfolio-alpha.vercel.app/',
       color: 'bg-[#394a43]',
       number: '03.'
     }
